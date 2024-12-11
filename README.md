@@ -1,3 +1,3 @@
 # demo
 this is my first repository
-Authour-Miruthiga Venkatesh
+Author-Miruthiga Venkatesh
